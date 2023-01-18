@@ -1,0 +1,17 @@
+{% extends "base.html" %} {% block title %}home{% endblock %} {% block content
+%}<h3 align="center">cuontrys</h3>
+{% for countri in lisa %}
+<h5>
+    <ul>
+        <ol>
+            {{countri}}
+        </ol>
+    </ul>
+</h5>
+{% endfor %}
+<form method="POST">
+    <input class="form-control" type="number" min="1" max="5" name="Country_Number" required/><br />
+    <div align="center">
+        <button type="submit" class="btn btn-primary">submit</button>
+    </div>
+</form>{% endblock %}

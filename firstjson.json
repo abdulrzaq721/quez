@@ -1,0 +1,1029 @@
+{
+    "countrys": [
+        {
+            "name": "Syria",
+            "questions": [
+                {
+                    "query": "What is the Syrian currency",
+                    "options": [
+                        "A) Dinar ",
+                        " B) Dirham ",
+                        " C) Euro ",
+                        " D) Lira "
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the name of the largest river in Syria:",
+                    "options": [
+                        " A) Orontes River ",
+                        "B) Nile River ",
+                        "C) Euphrates River",
+                        " D) Khabur River "
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Among the most prominent tourist places in Syria:",
+                    "options": [
+                        " A) The Leaning Tower of Pisa",
+                        "  B) The city of Petra ",
+                        "C) The Roman amphitheater ",
+                        "D) The amphitheater of Bosra "
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the area of ​​Syria",
+                    "options": [
+                        " A) 182,000 km",
+                        " B) 180,185 km ",
+                        "C) 185,000 km ",
+                        "D) 185,180 km "
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the capital of Syria:",
+                    "options": [
+                        " A) Baghdad ",
+                        "B) Cairo",
+                        " C) Damascus ",
+                        "D) Aleppo "
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the largest governorate in Syria:",
+                    "options": [
+                        " A) Homs ",
+                        "B) Sharjah",
+                        "C) Aleppo",
+                        " D) Tartous"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "In which continent is Syria located:",
+                    "options": [
+                        " A) Africa",
+                        " B) Asia ",
+                        "C) Europe ",
+                        "D) America"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the name of the Syrian-made car:",
+                    "options": [
+                        " A) Peugeot",
+                        " B) Mercedes",
+                        " C) Dacia",
+                        " D) Sham"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the name of the most prominent Syrian poets:",
+                    "options": [
+                        " A) Mahmoud Darwish",
+                        " B) Abu Al-Hassan Al-Sadr ",
+                        "C) Aya Mansour ",
+                        "D) Suleiman Al-Issa"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the population of Syria:",
+                    "options": [
+                        " A) 2500000",
+                        " B) 4536100",
+                        " C) 18,280000",
+                        " D) 15986000"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "How many Syrian governorates:",
+                    "options": [
+                        " A) 21",
+                        " B) 14 ",
+                        "C) 12",
+                        " D) 10"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "On what does the economic income in Syria depend:",
+                    "options": [
+                        " A) Industry ",
+                        "B) Agriculture",
+                        " C) Trade",
+                        " D) Underground wealth"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "How many airports are there in Syria:",
+                    "options": [
+                        " A) 15 airports ",
+                        "B) 55 airports ",
+                        "C) 13 airports",
+                        " D) 65 airports"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the official language of Syria:",
+                    "options": [
+                        " A) Russian",
+                        " B) Persian",
+                        " C) Arabic",
+                        " D) Syriac"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the phone code in Syria:",
+                    "options": [
+                        " A) +222 ",
+                        "B) +963 ",
+                        "C) +695",
+                        " D) +565"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What are the most important castles in Syria:",
+                    "options": [
+                        " A) Al-Qat Castle ",
+                        "B) Beaufort Castle",
+                        " C) Al-Hosn Castle",
+                        " D) Shamaa Castle"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the sea in Syria:",
+                    "options": [
+                        " A) The Red Sea",
+                        " B) The Dead Sea ",
+                        "C) The Mediterranean Sea ",
+                        "D) The Black Sea"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": " What borders Syria from the north:",
+                    "options": [
+                        " A) Iraq ",
+                        "B) Turkey",
+                        " C) Lebanon ",
+                        "D) Palestine"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "From the Syrian governorates that overlook the Mediterranean Sea:",
+                    "options": [
+                        " A) Raqqa ",
+                        "B) Damascus",
+                        " C) Al-Hasakah ",
+                        " D) Tartous"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Of the prominent religious monuments in Syria:",
+                    "options": [
+                        " A) Al-Aqsa Mosque",
+                        " B) Umayyad Mosque ",
+                        "C) Great Imam Mosque ",
+                        "D) Mansouri Grand Mosque"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "name": "germany",
+            "questions": [
+                {
+                    "query": "Germany is one of the countries:",
+                    "options": [
+                        "A)the Soviet Union ",
+                        "B)the European Union ",
+                        "C)the Sports Federation",
+                        " D)the Arab Federation"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Germany shares its northern border with:",
+                    "options": [
+                        "A)Turkey ",
+                        "B)Indiac",
+                        " C)Denmark ",
+                        "D)Poland"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Germany's waters occupy an area estimated at about:",
+                    "options": [
+                        "A)8km",
+                        " Bb)7km ",
+                        "C)10km ",
+                        "D)9km"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the name of the most widespread trees in Germany:",
+                    "options": [
+                        " A)Apple trees ",
+                        "B)oak trees",
+                        " C)cypress trees",
+                        " D)eucalyptus trees"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Among the most widespread animals in Germany:",
+                    "options": [
+                        " A)foxes",
+                        " B)deer ",
+                        "C)lions",
+                        " D)rabbits"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "On which continent is Germany located?\na)Asia\nb)Europe\nc)America\nd)Africa",
+                    "options": [
+                        "A)Asia ",
+                        "B)Europe ",
+                        "C)America",
+                        " D)Africa"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the capital of Germany:",
+                    "options": [
+                        " A)London ",
+                        "B)Berlin ",
+                        "C)Moscow ",
+                        "D)Istanbul"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the population of Germany?",
+                    "options": [
+                        " A)76549830 ",
+                        "B)675849334 ",
+                        "C)82377310",
+                        " D)958650943"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Which rank does Germany occupy in the list of countries according to population:",
+                    "options": [
+                        " A)18 ",
+                        "B)17 ",
+                        "C)95 ",
+                        "D)19"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Among the most prominent castles in Germany:",
+                    "options": [
+                        " A)Al Hosn Citadel ",
+                        "B)Altes Citadel ",
+                        "C)Eyal Citadel ",
+                        "D)Maroun Citadel"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Of how many states does Germany consist of:",
+                    "options": [
+                        ": A)13 ",
+                        "B)16 ",
+                        "C)20 ",
+                        "D)10"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the area of forests in Germany: ",
+                    "options": [
+                        "A)875046 ",
+                        "B)657996",
+                        " C)114191 ",
+                        "D)456380"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the longest river in Germany:",
+                    "options": [
+                        " A)the Rhine River",
+                        " B)the Amazon River ",
+                        "C)the Yangtze River",
+                        " D)the Congo River"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "How big is the capital of Germany:",
+                    "options": [
+                        " A)669 km ",
+                        "B)647 km",
+                        "C)357 km ",
+                        "D)973 km"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "The name of the German-made car:",
+                    "options": [
+                        "A)Toyota ",
+                        "B)Mercedes ",
+                        "C)Lancer ",
+                        "D)Saba"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Germany overlooks the sea from the north:",
+                    "options": [
+                        " A)North Sea ",
+                        "B)Mediterranean Sea",
+                        " C)Red Sea ",
+                        "D)Dead Sea"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "Among the most prominent tourist places in Germany:",
+                    "options": [
+                        " A)Burj Khalifa",
+                        " B)Qarmash city ",
+                        "C)Eiffel Tower ",
+                        "D)Palmyra city"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Of the most prominent religious worlds in Germany:",
+                    "options": [
+                        " A)The Church of the Virgin",
+                        " B)Al-Aqsa Mosque",
+                        " C)The Umayyad Mosque ",
+                        "D)The National Shrine Church"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "Germany shares its southern border with:",
+                    "options": [
+                        " A)Switzerland ",
+                        "B)India",
+                        " C)Denmark ",
+                        "D)Poland"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "How big is Germany:",
+                    "options": [
+                        " A)45678 ",
+                        "B)349223 ",
+                        "C)876994",
+                        " D)322943"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "name": "Italy",
+            "questions": [
+                {
+                    "query": "What is the official name of Italy: ",
+                    "options": [
+                        "A)the Arab Republic ",
+                        "B)the Italian Republic ",
+                        "C)the Chinese Republic",
+                        " D)the Republic of Korea"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the area of ​​Italy?",
+                    "options": [
+                        " A)564897 ",
+                        "B)530987",
+                        " C)539737 ",
+                        "D)301338"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "In which continent is Italy located?",
+                    "options": [
+                        "  A)Africa ",
+                        "B)Europe ",
+                        "C)Asiab ",
+                        "D)America"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "Italy shares its northern border with:",
+                    "options": [
+                        " A)Germany ",
+                        "B)France ",
+                        "C)Russia",
+                        " D)India"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Within the British territory there are two countries, one of which is:",
+                    "options": [
+                        " A)France ",
+                        "B)India ",
+                        "C)China",
+                        " D)Vatican"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the population of Italy?",
+                    "options": [
+                        " A)78654309 ",
+                        "B)6723986 ",
+                        "C)60483973",
+                        " D)786827829"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is Italy's global ranking in terms of population: ",
+                    "options": [
+                        "A)5",
+                        " B)9 ",
+                        "C)2 ",
+                        "D)6"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the rank of Italy in the world in terms of the most populated countries:",
+                    "options": [
+                        " A)23",
+                        " B)8",
+                        " C)78",
+                        " D)77"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "What is the capital of Italy:",
+                    "options": [
+                        " A)London ",
+                        "B)Brazil",
+                        " C)Rome",
+                        " D)Austria"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Italy has a long coastline on:n",
+                    "options": [
+                        " A)the red sea ",
+                        "B)the black sea",
+                        " C)the dead sea ",
+                        "D)the mediterranean sea"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Among the most prominent religious monuments in Italy: ",
+                    "options": [
+                        "A)Eiffel Tower ",
+                        "B)Burj Khalifa",
+                        " C)Leaning Tower of Pisa ",
+                        "D)Optical Amphitheatre"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Italy hosted the World Cup: ",
+                    "options": [
+                        "A)twice ",
+                        "B)three times",
+                        " C)once",
+                        " D)four times"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "In which year did Italy host the World Cup? ",
+                    "options": [
+                        "A)2006 ",
+                        "B)2002 ",
+                        "C)1990",
+                        " D)2018"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the Italian currency:",
+                    "options": [
+                        " A)dollars ",
+                        "B)dirhams ",
+                        "C)dinars ",
+                        "D)pounds"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "What is the name of the car of Italian origin: ",
+                    "options": [
+                        "A)Lancer",
+                        " B)Toyota ",
+                        "C)Ferrari ",
+                        "D)Mercedes"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the most widespread trees in Italy:",
+                    "options": [
+                        "A)apple trees",
+                        " B)almond trees ",
+                        "C)walnut trees ",
+                        "D)olive trees"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Among the most prominent castles in Italy:",
+                    "options": [
+                        " A)Al Hosn Castle",
+                        " B)Altes Castle ",
+                        "C)Aprechna Castle",
+                        " D) Eyal Castle"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "How much forest area in Italy: ",
+                    "options": [
+                        "A)194,730 km",
+                        " B)106,736 km ",
+                        "C)749,352km",
+                        " D)483,020 km"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the name of the largest city in Italy?",
+                    "options": [
+                        " A)Rome ",
+                        "B)Turin ",
+                        "C)Verona",
+                        " D)Milan"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "What is the official language in Italy: ",
+                    "options": [
+                        "A)Arabic ",
+                        "B)English ",
+                        "C)Persian",
+                        " D)Italian"
+                    ],
+                    "answer": 3
+                }
+            ]
+        },
+        {
+            "name": "Russia",
+            "questions": [
+                {
+                    "query": "What is the largest country in the world?",
+                    "options": [
+                        " A)China ",
+                        " B)Russia ",
+                        " C)Germany ",
+                        " D)India"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "What is the area of Russia:",
+                    "options": [
+                        " A)23754986",
+                        " B)99876439",
+                        " C)17098242 ",
+                        " D)34765844"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "How many countries share borders with Russia:",
+                    "options": [
+                        " A)18 ",
+                        " B)14 ",
+                        " C)16 ",
+                        " D)4"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the deepest lake in the world?",
+                    "options": [
+                        " A) Lion Lake ",
+                        " B)Lake Baikal ",
+                        " C)Terkos Lake ",
+                        " D)Van Lake"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the name of the longest river in Europe?",
+                    "options": [
+                        " A)Nile River ",
+                        " B)Volga ",
+                        " C)Riva River ",
+                        " D)Koksu"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "When did Russia become independent? ",
+                    "options": [
+                        "A)1990 ",
+                        " B)1991 ",
+                        " C)1992 ",
+                        " D)1999 "
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What are the most important Russian industries:",
+                    "options": [
+                        "  A) Automotive industry ",
+                        " B)Heavy machinery industry ",
+                        " C)Medical and scientific instruments industry ",
+                        " D)Coffee industry"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the capital of Russia:",
+                    "options": [
+                        " A)Berlin ",
+                        " B)Moscow ",
+                        " C)Tokyo ",
+                        " D)London"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the official language in Russia?",
+                    "options": [
+                        " A)Greek ",
+                        "B)Russian ",
+                        "C)Arabic ",
+                        "D)English"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the national drink in Russia?",
+                    "options": [
+                        " A)cocoa ",
+                        "B)tea",
+                        " C)vodka",
+                        " D)all of the above are true"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "One of the largest Russian cities:",
+                    "options": [
+                        " A)Kirov",
+                        " B)Penza ",
+                        "C)Samara",
+                        " D)Tula"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the currency of Russia:",
+                    "options": [
+                        " A)the yen",
+                        " B)the euro ",
+                        "C)the ruble",
+                        " D)the dollar"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "How many major cities in Russia:",
+                    "options": [
+                        " A)1000",
+                        " B)1500 ",
+                        "C)2000 ",
+                        "D)500"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the population of Russia:",
+                    "options": [
+                        " A)23498594",
+                        " B)456387906c ",
+                        "C)142,257,519",
+                        " D)87996534"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "What is the name of the city with a large population in Russia:",
+                    "options": [
+                        " A)Saint Petersburg ",
+                        "B)Novosibirsk",
+                        " C)Yekaterinburg ",
+                        "D)Moscow"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the name of the sea in Russia? ",
+                    "options": [
+                        "A)Red Sea ",
+                        "B)Mediterranean Sea",
+                        " C)Sea of Okhotsk ",
+                        " D) Dead Sea"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "Among the most important religious monuments in Russia:",
+                    "options": [
+                        " A)St. Basil's Church ",
+                        " B)Transfiguration Church ",
+                        "C)St. Catherine's Armenian Church ",
+                        "D)Trinity"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the calling code:",
+                    "options": [
+                        " A)+87 ",
+                        "B)+7 ",
+                        "C)+99",
+                        " D)+972"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "One of the most important tourist cities in Russia:",
+                    "options": [
+                        " A)Tokyo ",
+                        "B)London",
+                        " C)Sochi",
+                        " D)Berlin"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Russia hosted the World Cup in:",
+                    "options": [
+                        " A)1998 ",
+                        "B)2008 ",
+                        "C)2018 ",
+                        " D)2004"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "name": "Japan",
+            "questions": [
+                {
+                    "query": "What did the Chinese call Japan?",
+                    "options": [
+                        "A)The land of the East",
+                        " B)The land of the West",
+                        " C)The land of the source of the sun",
+                        " D)The land of technology"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "How many dialects are there in Japan?",
+                    "options": [
+                        " A)3 dialect",
+                        " B)4 dialects ",
+                        "C)One dialect ",
+                        "D)5 dialects"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "How many types of clothes are there in Japan?",
+                    "options": [
+                        "A)3 types ",
+                        "B)9 types",
+                        "C)2 types",
+                        "D)1 type "
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "Among the most important festivals celebrated by the Japanese:",
+                    "options": [
+                        " A)Spring Festival",
+                        " B)Bonn Festival ",
+                        "C)Golden Week Festival",
+                        " D)Flower Festival"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "From the general morals of the Japanese: ",
+                    "options": [
+                        "A)lowering the volume while speaking",
+                        " B)taking off shoes",
+                        " C)listening to others ",
+                        "D)kneeling"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "What is the area of ​​Japan: ",
+                    "options": [
+                        "A)778 thousand km ",
+                        "B)900 thousand km",
+                        " C)877 thousand km",
+                        " D)571 thousand km "
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "The Japanese economy depends on:",
+                    "options": [
+                        " A)Industry ",
+                        "B)Agriculture ",
+                        "C)Tourism ",
+                        "D)Underground wealth "
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "The unemployment rate in Japan: ",
+                    "options": [
+                        "A)2% ",
+                        "B)2.8%  ",
+                        "C)3%  ",
+                        "D)8.2%"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "The words of the Japanese anthem call for:",
+                    "options": [
+                        " A)Victory",
+                        " B)Pride in the homeland ",
+                        "C)Unity ",
+                        "D)Perpetual peace and prosperity"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "The imperial seal of Japan is:",
+                    "options": [
+                        " A)bird",
+                        " B)sunflower",
+                        " C)bat",
+                        "D)chrysanthemum"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "How many letters are there in Japanese?",
+                    "options": [
+                        " A)3000 characters",
+                        " B)2500 characters ",
+                        "C)2000 characters ",
+                        "D)3500 characters"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the currency of Japan:",
+                    "options": [
+                        " A)Dirhams ",
+                        "B)Dinars ",
+                        "C)Yen ",
+                        "D)Euros"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "How many islands are there in Japan?",
+                    "options": [
+                        " A)500 ",
+                        "B)600 ",
+                        "C)42",
+                        " D)3000"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "Among the prominent tourist places in Japan:",
+                    "options": [
+                        "A)The Eiffel Tower ",
+                        " B)Burj Khalifa  ",
+                        "C)Victoria Harbor ",
+                        "D)Hiroshima Museum"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "query": "In which continent is Japan located?",
+                    "options": [
+                        " A)Asia ",
+                        "B)Africa",
+                        "C)Europe ",
+                        "D)America"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the capital of Japan? ",
+                    "options": [
+                        "A)Berlin ",
+                        "B)Moscow",
+                        " C)Tokyo",
+                        " D)Damascus"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "What is the field in which Japan is advancing:",
+                    "options": [
+                        "A)Pharmaceutical industry",
+                        " B)Weapons industry ",
+                        "C)Technology",
+                        " D)Heavy machinery industry"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "query": "One of the most famous sports in Japan:",
+                    "options": [
+                        " A)Football ",
+                        "B)Basketball ",
+                        "C)Boxing",
+                        " D)Baseball"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "query": "When did Hiroshima explode?",
+                    "options": [
+                        " A)1970",
+                        " B)1954 ",
+                        "C)1945 ",
+                        "D)1930"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "query": "Of the major rivers in Japan:",
+                    "options": [
+                        " A)Euphrates River ",
+                        "B)Shinano River",
+                        " C)Red River",
+                        " D)Amur River"
+                    ],
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}
