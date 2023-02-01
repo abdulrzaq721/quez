@@ -92,7 +92,6 @@ def find():
                     db.close()
                     flash('log in success', category='success')
                     return redirect(url_for('lista'))
-                    break
         else :
             flash('the password ou user name is wrong', category='error')
             return  render_template("log_in.html")
